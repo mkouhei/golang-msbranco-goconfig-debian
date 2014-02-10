@@ -1,0 +1,5 @@
+golang-config (0.0~git20130113+bdf1aee-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)
+
+ -- Kouhei Maeda <mkouhei@palmtb.net>  Mon, 10 Feb 2014 16:51:19 +0900
